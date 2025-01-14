@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Ajay Lohar </br> and I'm a Java Full Stack Developer from India</h2>
+<h2 align="center">Hi 👋! My name is Ajay Lohar </br> and I'm a Java Full Stack Developer from India <img height="20" src="https://flagpedia.net/data/flags/emoji/twitter/256x256/in.png" /></h2>
 
 ###
 
