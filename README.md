@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Ajay Lohar and I'm a Java Full Stack Developer from India</h2>
+<h2 align="center">Hi 👋! My name is Ajay Lohar </br> and I'm a Java Full Stack Developer from India</h2>
 
 ###
 
