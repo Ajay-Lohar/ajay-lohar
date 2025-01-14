@@ -40,12 +40,16 @@
   <a href="https://wa.me/7798832017" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="whatsapp logo"  />
   </a>
+  
 </div>
+</br></br></br></br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ajay-lohar&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-lohar" /> </p>
+
 
 ###
 
 <br clear="both">
 
+
 <center><img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" /></center>
 
-###
