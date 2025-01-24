@@ -28,6 +28,8 @@
   <img width="9" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="9" />
+  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" height="30" alt="html5 logo"  />
+  <img width="9" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="html5 logo"  />
   <img width="9" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
@@ -36,11 +38,15 @@
   <img width="9" />
  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+
+  
  </br></br>
   <img width="9" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="30" alt="spring logo"  />
    <img width="9" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" height="30" alt="spring logo"  />
+   <img width="9" />
+   <img src="https://icon.icepanel.io/Technology/svg/Vite.js.svg" height="30" alt="spring logo"  />
    <img width="9" />
   <img src="https://icon.icepanel.io/Technology/svg/DBeaver.svg" height="30" alt="spring logo"  />
    <img width="9" />
