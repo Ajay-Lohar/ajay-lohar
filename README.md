@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Ajay Lohar <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/source.gif" width="50"></br> and  I'm a Java Full-Stack Developer from Karad </h2>
+<h2 align="center">Hi 👋! My name is Ajay Lohar <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/source.gif" width="50"></br> and  I'm a Java Full-Stack Developer from Satara </h2>
 
 ###
 
