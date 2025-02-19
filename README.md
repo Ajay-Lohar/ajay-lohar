@@ -75,6 +75,9 @@
   <a href="https://wa.me/7798832017" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="whatsapp logo"  />
   </a>
+  <a href="https://leetcode.com/u/Ajay-Lohar" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Leetcode&logo=Leetcode&label=&color=8A8A8A&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="Leetcode logo"  />
+  </a>
   
 </div>
 </br></br></br></br>
