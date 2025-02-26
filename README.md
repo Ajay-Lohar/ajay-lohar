@@ -79,7 +79,7 @@
     <img src="https://img.shields.io/static/v1?message=Leetcode&logo=Leetcode&label=&color=8A8A8A&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="Leetcode logo"  />
   </a>
   <a href="https://x.com/lohar_ajay28271" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=X (Tweeter)&logo=X&label=&color=black&logoColor=Black&labelColor=&style=for-the-badge" height="32" alt="Leetcode logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=X&label=&color=black&logoColor=Black&labelColor=&style=for-the-badge" height="32" alt="Leetcode logo"  />
   </a>
   
 </div>
