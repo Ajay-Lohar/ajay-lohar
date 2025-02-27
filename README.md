@@ -45,21 +45,26 @@
  </br></br>
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/mysql.svg" height="40" alt="mysql logo"  />
   <img width="9" />
+  
    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" height="40" alt="mysql logo"  />
-  <img width="9" />
  </br></br>
   <img width="9" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="40" alt="spring logo"  />
    <img width="9" />
+  <img src="https://icon.icepanel.io/Technology/svg/Vite.js.svg" height="40" alt="spring logo"  />
+   <img width="9" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" height="40" alt="spring logo"  />
    <img width="9" />
-   <img src="https://icon.icepanel.io/Technology/svg/Vite.js.svg" height="40" alt="spring logo"  />
+  <img src="https://icon.icepanel.io/Technology/svg/Apache-Maven.svg" height="40" alt="spring logo"  />
    <img width="9" />
+   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="9" />
   <img src="https://icon.icepanel.io/Technology/svg/DBeaver.svg" height="40" alt="spring logo"  />
    <img width="9" />
   <img src="https://www.svgviewer.dev/static-svgs/14366/postman-icon.svg" height="40" alt="spring logo"  />
+   <img width="9" />
+  <img src="https://raw.githubusercontent.com/benc-uk/icon-collection/master/logos/git.svg" height="40" alt="spring logo"  />
  
 </div>
 
@@ -72,11 +77,14 @@
   <a href="https://www.linkedin.com/in/ajaylohar/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=Linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo"  />
   </a>
+  <a href="https://www.instagram.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=C13584&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo"  />
+  </a>
   <a href="https://wa.me/7798832017" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="whatsapp logo"  />
   </a>
   <a href="https://leetcode.com/u/Ajay-Lohar" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Leetcode&logo=Leetcode&label=&color=8A8A8A&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="Leetcode logo"  />
+    <img src="https://img.shields.io/static/v1?message=Leetcode&logo=Leetcode&label=&color=404040&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="Leetcode logo"  />
   </a>
   <a href="https://x.com/lohar_ajay28271" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=X&label=&color=black&logoColor=Black&labelColor=&style=for-the-badge" height="32" alt="Leetcode logo"  />
