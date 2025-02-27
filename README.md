@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Ajay Lohar <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/source.gif" width="50"></br> and  I'm a Java Full-Stack Developer from Satara </h2>
+<h2 align="center">Hi 👋! </br> My name is Ajay Lohar <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/source.gif" width="50"></br> and  I'm a  Full-Stack Developer from India </h2>
 
 ###
 
@@ -9,7 +9,7 @@
 ###
 
 <div align="center">
-  
+  <h3>Languages and Tools</h3>
   
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="9" />
