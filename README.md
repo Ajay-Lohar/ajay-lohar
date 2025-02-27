@@ -1,4 +1,6 @@
-<h2 align="center">Hi 👋! </br> My name is Ajay Lohar <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/source.gif" width="50"></br> and  I'm a  Full-Stack Developer from India </h2>
+<h2 align="center">Hi 👋! </br> My name is Ajay Lohar <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/source.gif" width="50"></br> and  I'm a  Full-Stack Developer from India 
+
+</h2>
 
 ###
 
@@ -9,7 +11,8 @@
 ###
 
 <div align="center">
-  <h3>Languages and Tools</h3>
+  <hr>
+  <h3>Languages , Frameworks and Tools</h3>
   
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="9" />
@@ -34,10 +37,6 @@
   <img width="9" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
   <img width="9" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="9" />
- 
-  
   <img src="https://vectorwiki.com/images/gPR02__hibernate.svg" height="40" alt="java logo"  />
   <img width="9" />
  
@@ -45,9 +44,9 @@
 
   
  </br></br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/mysql.svg" height="40" alt="mysql logo"  />
   <img width="9" />
-   <img src="https://www.svgviewer.dev/static-svgs/34566/mongodb.svg" height="40" alt="mysql logo"  />
+   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" height="40" alt="mysql logo"  />
   <img width="9" />
  </br></br>
   <img width="9" />
@@ -57,6 +56,8 @@
    <img width="9" />
    <img src="https://icon.icepanel.io/Technology/svg/Vite.js.svg" height="40" alt="spring logo"  />
    <img width="9" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="9" />
   <img src="https://icon.icepanel.io/Technology/svg/DBeaver.svg" height="40" alt="spring logo"  />
    <img width="9" />
   <img src="https://www.svgviewer.dev/static-svgs/14366/postman-icon.svg" height="40" alt="spring logo"  />
