@@ -83,12 +83,13 @@
   <a href="https://wa.me/7798832017" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="whatsapp logo"  />
   </a>
-  <a href="https://leetcode.com/u/Ajay-Lohar" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Leetcode&logo=Leetcode&label=&color=404040&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="Leetcode logo"  />
-  </a>
   <a href="https://x.com/lohar_ajay28271" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=X&label=&color=black&logoColor=Black&labelColor=&style=for-the-badge" height="32" alt="Leetcode logo"  />
   </a>
+  <a href="https://leetcode.com/u/Ajay-Lohar" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Leetcode&logo=Leetcode&label=&color=404040&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="Leetcode logo"  />
+  </a>
+  
   
 </div>
 </br></br></br></br>
