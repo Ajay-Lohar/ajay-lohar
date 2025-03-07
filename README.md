@@ -6,12 +6,17 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajay-lohar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  </br></br>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=ajay-lohar&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-lohar" /> </p>
 </div>
 
 ###
 
 <div align="center">
+  
+  <h2></h2>
   <h3>Languages , Frameworks and Tools</h3>
+  <h2></h2>
   
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="9" />
@@ -69,7 +74,8 @@
 </div>
 
 ###
-
+<h2></h2>
+</br>
 <div align="center">
   <a href="mailto:loharajay998@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="gmail logo"  />
@@ -92,8 +98,10 @@
   
   
 </div>
-</br></br></br></br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ajay-lohar&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-lohar" /> </p>
+  <h2></h2>
+
+
+
 
 
 ###
