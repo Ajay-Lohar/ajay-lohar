@@ -1,8 +1,7 @@
-<h2 align="center">Hi 👋! </br> My name is Ajay Lohar <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/source.gif" width="50"></br> and  I'm a  Full-Stack Developer from India 
+<h2 align="center">𝐇𝐢 👋! </br> My name is 𝑨𝒋𝒂𝒚 𝑳𝒐𝒉𝒂𝒓 </br> and  I'm a  𝕱𝖚𝖑𝖑-𝕾𝖙𝖆𝖈𝖐 𝕯𝖊𝖛𝖊𝖑𝖔𝖕𝖊𝖗 from 𝕴𝖓𝖉𝖎𝖆 
 
 </h2>
 
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajay-lohar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -15,7 +14,7 @@
 <div align="center">
   
   <h2></h2>
-  <h3>Languages , Frameworks and Tools</h3>
+  <h3>𝕷𝖆𝖓𝖌𝖚𝖆𝖌𝖊𝖘 , 𝕱𝖗𝖆𝖒𝖊𝖜𝖔𝖗𝖐𝖘 𝖆𝖓𝖉 𝕿𝖔𝖔𝖑𝖘</h3>
   <h2></h2>
   
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
