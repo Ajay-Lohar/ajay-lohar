@@ -82,7 +82,7 @@
   <a href="https://www.linkedin.com/in/ajaylohar/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=Linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/ajay14082000/" target="_blank">
+  <a href="https://www.instagram.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=C13584&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo"  />
   </a>
   <a href="https://wa.me/7798832017" target="_blank">
