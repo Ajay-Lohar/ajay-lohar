@@ -4,8 +4,8 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajay-lohar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  </br></br>
+  
+  </br>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=ajay-lohar&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-lohar" /> </p>
 </div>
 
