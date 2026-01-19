@@ -40,7 +40,7 @@
   <img width="9" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
   <img width="9" />
-  <img src="https://vectorwiki.com/images/gPR02__hibernate.svg" height="40" alt="java logo"  />
+  <img src="https://www.cdnlogo.com/logos/h/52/hibernate.svg" height="40" alt="java logo"  />
   <img width="9" />
  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
