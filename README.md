@@ -40,7 +40,7 @@
   <img width="9" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
   <img width="9" />
-  <img src="https://www.cdnlogo.com/logos/h/52/hibernate.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/hibernate-logo-svg-vector.svg" height="40" alt="hibernate logo"  />
   <img width="9" />
  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
@@ -49,8 +49,9 @@
  </br></br>
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/mysql.svg" height="40" alt="mysql logo"  />
   <img width="9" />
-  
    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" height="40" alt="mysql logo"  />
+   <img width="9" />
+   <img src="https://logodix.com/logo/2106633.png" height="40" alt="postgres logo"  />
  </br></br>
   <img width="9" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="40" alt="spring logo"  />
