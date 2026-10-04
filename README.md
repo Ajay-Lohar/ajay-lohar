@@ -1,13 +1,14 @@
 <h3  align="center">𝑯𝒊 👋! </br> 𝑴𝒚 𝒏𝒂𝒎𝒆 𝒊𝒔 𝑨𝒋𝒂𝒚 𝑳𝒐𝒉𝒂𝒓 </br> 𝒂𝒏𝒅 𝑰'𝒎 𝒂  𝕱𝖚𝖑𝖑-𝕾𝖙𝖆𝖈𝖐 𝕯𝖊𝖛𝖊𝖑𝖔𝖕𝖊𝖗 𝒇𝒓𝒐𝒎 𝕴𝖓𝖉𝖎𝖆 
 
 </h3>
-<h2></h2>
 
-<div align="center">
+
+
+<!-- <div align="center">
   
   </br>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=ajay-lohar&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-lohar" /> </p>
-</div>
+</div> -->
 
 ###
 
